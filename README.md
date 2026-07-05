@@ -1,1 +1,9 @@
 # PAMPHLET-MANGROVE
+Theme A: Mangrove Conservation Group 2 – Mobile Progressive Web Application (PWA) 
+Project Title Offline-First Mangrove Monitoring System for Kg Sungai Timun
+
+THIVIYA A/P DURAI A23BE0445 
+DANIAL HAKIM BIN MOHD SHAFIE A23BE0528 
+MUHAMMAD ASYRAF BIN JAMLAY A23BE0212 
+CHENG ZHU YAN A23BE0071 
+MEGAWATI BINTI SULAIMAN A23BE0174
